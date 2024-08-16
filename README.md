@@ -1,6 +1,6 @@
 # smartirrigation
 
-A new Flutter project.
+app to control smart irrigation system.
 
 ## Getting Started
 
